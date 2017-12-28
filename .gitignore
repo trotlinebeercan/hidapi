@@ -18,3 +18,7 @@ windows/Makefile.in
 Makefile
 stamp-h1
 libtool
+
+# Visual Studio
+*.vs
+*.user
