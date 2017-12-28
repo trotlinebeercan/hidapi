@@ -22,3 +22,4 @@ libtool
 # Visual Studio
 *.vs
 *.user
+*hidapi-release
